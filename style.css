@@ -1,0 +1,14 @@
+.certificate {
+  border: 8px solid #1565c0;
+  width: 50%;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: white;
+}
+h1 {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.description {
+  width: 70%;
+}
